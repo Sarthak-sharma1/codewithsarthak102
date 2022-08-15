@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codewithsarthak102
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning java right now
+- 🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me.. 
 Sarthaksharma936@gmail.com
